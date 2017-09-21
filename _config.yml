@@ -11,20 +11,20 @@
 # (Using that method instead of site.owner, in case your posts get cloned with your repo.)
 
 # Site settings
-title: arkadianriver
-description: Flowing creativity &#x2192; Cascading bliss
+title: The Chew Lab @ Genome Institute of Singapore
+description: Rewriting Life &#x2192; The Chew Lab
 owner:
-  name: Gary Faircloth # or company name
-  email: gfair@arkadianriver.com
-  url: http://arkadianriver.com
-first_published: 1996 # if migrating another site, the year of your first publish
+  name: Chew Wei Leong
+  email: chewwl@gis.a-star.edu.sg
+  url: https://chewlab.github.io
+first_published: 2017
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://arkadianriver.com" # the base hostname & protocol for your site
+url: "https://chewlab.github.io" # the base hostname & protocol for your site
 
 # on landing page
 # - set the greeting only if you want to display the first green section
 greeting:
-  title: Welcome!  
+  title: Genome editing  
   text: I hope you enjoy my collection
 # - title for your blog's featured posts
 features-title: Featured topics
