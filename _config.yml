@@ -11,8 +11,8 @@
 # (Using that method instead of site.owner, in case your posts get cloned with your repo.)
 
 # Site settings
-title: The Chew Lab @ Genome Institute of Singapore
-description: Rewriting Life | The Chew Lab
+title: REWRITING LIFE
+description: The Chew Lab @ Genome Institute of Singapore
 owner:
   name: Chew Wei Leong
   email: chewwl@gis.a-star.edu.sg
@@ -24,8 +24,8 @@ url: "https://chewlab.github.io" # the base hostname & protocol for your site
 # on landing page
 # - set the greeting only if you want to display the first green section
 greeting:
-  title: Genome editing  
-  text: ''
+  title: WE BUILD TECHNOLOGIES TO REWRITE THE HUMAN GENOME
+  text: OUR RESEARCH
 # - title for your blog's featured posts
 features-title: ''
 # - displayed at the bottom
